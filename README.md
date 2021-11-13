@@ -2,4 +2,4 @@
 
 pre-rocket
 
-Meu segundo Projeto com HTML5 e CSS.
+Meu segundo Projeto.
